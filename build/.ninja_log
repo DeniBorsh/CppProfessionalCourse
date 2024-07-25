@@ -1,0 +1,7 @@
+# ninja log v5
+0	41	1721937847655464749	CMakeFiles/helloworld.dir/lib.cpp.o	34f3a6d98b2d74ca
+42	93	1721937847707465776	libhelloworld.a	b6efd41b248d645e
+0	184	1721937847799467592	CMakeFiles/helloworld_cli.dir/main.cpp.o	ff2bc85fe650103d
+185	222	1721937847835468302	helloworld_cli	c3adebb0d399854c
+0	496	1721937848111473756	CMakeFiles/test_version.dir/test_version.cpp.o	de1b0260d57d2025
+496	539	1721937848151474547	test_version	3e5c425c8b71516e

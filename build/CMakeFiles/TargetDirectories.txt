@@ -1,0 +1,12 @@
+/home/contaro/dev/courses/cpp/lection_1/build/CMakeFiles/helloworld_cli.dir
+/home/contaro/dev/courses/cpp/lection_1/build/CMakeFiles/helloworld.dir
+/home/contaro/dev/courses/cpp/lection_1/build/CMakeFiles/test_version.dir
+/home/contaro/dev/courses/cpp/lection_1/build/CMakeFiles/package.dir
+/home/contaro/dev/courses/cpp/lection_1/build/CMakeFiles/package_source.dir
+/home/contaro/dev/courses/cpp/lection_1/build/CMakeFiles/test.dir
+/home/contaro/dev/courses/cpp/lection_1/build/CMakeFiles/edit_cache.dir
+/home/contaro/dev/courses/cpp/lection_1/build/CMakeFiles/rebuild_cache.dir
+/home/contaro/dev/courses/cpp/lection_1/build/CMakeFiles/list_install_components.dir
+/home/contaro/dev/courses/cpp/lection_1/build/CMakeFiles/install.dir
+/home/contaro/dev/courses/cpp/lection_1/build/CMakeFiles/install/local.dir
+/home/contaro/dev/courses/cpp/lection_1/build/CMakeFiles/install/strip.dir

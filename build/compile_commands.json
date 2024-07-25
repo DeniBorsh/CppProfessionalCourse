@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/contaro/dev/courses/cpp/lection_1/build",
+  "command": "/usr/bin/c++ -g -Wall -Wextra -pedantic -Werror -std=gnu++14 -o CMakeFiles/helloworld_cli.dir/main.cpp.o -c /home/contaro/dev/courses/cpp/lection_1/main.cpp",
+  "file": "/home/contaro/dev/courses/cpp/lection_1/main.cpp"
+},
+{
+  "directory": "/home/contaro/dev/courses/cpp/lection_1/build",
+  "command": "/usr/bin/c++ -I/home/contaro/dev/courses/cpp/lection_1/build -g -Wall -Wextra -pedantic -Werror -std=gnu++14 -o CMakeFiles/helloworld.dir/lib.cpp.o -c /home/contaro/dev/courses/cpp/lection_1/lib.cpp",
+  "file": "/home/contaro/dev/courses/cpp/lection_1/lib.cpp"
+},
+{
+  "directory": "/home/contaro/dev/courses/cpp/lection_1/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_TEST_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -g -Wall -Wextra -pedantic -Werror -std=gnu++14 -o CMakeFiles/test_version.dir/test_version.cpp.o -c /home/contaro/dev/courses/cpp/lection_1/test_version.cpp",
+  "file": "/home/contaro/dev/courses/cpp/lection_1/test_version.cpp"
+}
+]
