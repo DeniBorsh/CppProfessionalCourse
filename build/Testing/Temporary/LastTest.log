@@ -1,0 +1,28 @@
+Start testing: Jul 26 23:22 MSK
+----------------------------------------------------------
+1/1 Testing: test_version
+1/1 Test: test_version
+Command: "/home/contaro/dev/courses/cpp/lection_1/build/test_version"
+Directory: /home/contaro/dev/courses/cpp/lection_1/build
+"test_version" start time: Jul 26 23:22 MSK
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VersionTest
+[ RUN      ] VersionTest.ValidVersion
+[       OK ] VersionTest.ValidVersion (0 ms)
+[----------] 1 test from VersionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_version" end time: Jul 26 23:22 MSK
+"test_version" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 26 23:22 MSK
