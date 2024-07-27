@@ -46,7 +46,6 @@ else ()
 endif()
 
 
-
 install(TARGETS helloworld_cli RUNTIME DESTINATION bin)
 
 set(CPACK_GENERATOR DEB)
