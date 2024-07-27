@@ -1,16 +1,16 @@
 # ninja log v5
+0	172	1722025342918565268	CMakeFiles/helloworld_cli.dir/main.cpp.o	ff2bc85fe650103d
 2	803	1722025343546553472	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	cf3f266f00355cbc
 0	24	0	CMakeFiles/test.util	1438d2a93db68f77
+2890	2927	1722025345670513803	lib/libgmock.a	aed9b9110c6e7301
 1	884	1722025343630551895	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	8f565dbe020498f7
 172	226	1722025342970564287	helloworld_cli	c3adebb0d399854c
 0	37	1722025342782567832	CMakeFiles/helloworld.dir/lib.cpp.o	34f3a6d98b2d74ca
 2927	2954	1722025345698513282	lib/libgmock_main.a	685aef476c43eaae
 1	2836	1722025345578515514	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	67a37030f809f168
-2890	2927	1722025345670513803	lib/libgmock.a	aed9b9110c6e7301
 2891	2916	1722025345658514026	lib/libgtest_main.a	30ececf4ed42069a
 37	67	1722025342810567304	libhelloworld.a	b6efd41b248d645e
 0	593	1722025343338557377	CMakeFiles/test_version.dir/test_version.cpp.o	7aed9f1448437f08
-2837	2890	1722025345634514472	lib/libgtest.a	e21429778cf18d0f
 1	1556	1722025344298539382	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	e7b0508881079feb
+2837	2890	1722025345634514472	lib/libgtest.a	e21429778cf18d0f
 2916	3016	1722025345758512166	test_version	ea438e30cab6bae5
-0	172	1722025342918565268	CMakeFiles/helloworld_cli.dir/main.cpp.o	ff2bc85fe650103d
